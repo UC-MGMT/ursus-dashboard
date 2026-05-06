@@ -1,0 +1,10 @@
+{
+  "config": {
+    "startingNav": 30000000,
+    "inceptionDate": "2026-04-01"
+  },
+  "navHistory": [
+    { "date": "2026-04-01", "nav": 30000000 }
+  ],
+  "positions": []
+}
